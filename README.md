@@ -1,3 +1,2 @@
-
-#Personal Portfolio Website 
-#Built using Html, CSS, Javascript
+Personal Portfolio Website 
+Built using Html, CSS, Javascript
